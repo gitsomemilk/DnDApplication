@@ -1,8 +1,15 @@
 import React from 'react';
+import NavBar from "../../Components/Navigation/Navbar/NavBar";
+
 
 function Homepage(props) {
     return (
-        <div></div>
+        <>
+        <NavBar></NavBar>
+        <section>
+
+        </section>
+        </>
     );
 }
 

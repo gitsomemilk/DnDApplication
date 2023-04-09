@@ -1,8 +1,11 @@
 import React from 'react';
+import NavBar from "../../Components/Navigation/Navbar/NavBar";
 
 function Loginpage(props) {
     return (
-        <div></div>
+        <>
+        <NavBar></NavBar>
+        </>
     );
 }
 
