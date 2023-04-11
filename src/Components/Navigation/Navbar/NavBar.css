@@ -27,8 +27,19 @@ nav {
     border-style: solid;
     border-width: 2px;
     border-color: red;
-    border-radius: 2px;
+    border-radius: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+
+
 }
 .nav-item-1:hover{
     border-color: #6e0202;
+    color: #273E47;
+    cursor: pointer;
+}
+.nav-items:hover{
+    color: #273E47;
+    cursor: pointer;
 }

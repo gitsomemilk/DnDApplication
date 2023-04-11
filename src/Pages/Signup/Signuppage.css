@@ -1,0 +1,16 @@
+.signup-form-outer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:200px;
+    filter: drop-shadow(30px 10px 10px rgba(28, 28, 28, 0.89));
+}
+
+.signup-form-inner button{
+    margin-top: 10px;
+    width: 72%;
+    padding: 10px;
+}
+.signup-form-inner select{
+    width: 72%;
+}

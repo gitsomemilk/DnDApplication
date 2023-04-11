@@ -1,0 +1,9 @@
+.input-component {
+    width: 90%;
+    margin: 6px 0;
+    display: flex;
+    flex-direction: column;
+}
+.error-message{
+    color: red;
+}
